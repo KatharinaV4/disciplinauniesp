@@ -1,4 +1,3 @@
 Faculdade Uniesp
 Curso: Sistema para Internet
-Katharina Vasconcellos da Fonseca
-Tópicos Essenciais para Programação
+Respondendo a lista de exercício do GitHub
